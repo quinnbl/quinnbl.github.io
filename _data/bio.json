@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Quinn Bianchi-Lawson",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "quinnbl@hawaii.edu",
+    "phone": "",
+    "website": "https://quinnbl.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,23 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "quinnbl",
+        "url": "https://quinnbl.github.io"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "bianchilawson",
+        "url": "http://linkedin.com/in/bianchilawson"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "data science",
       "keywords": [
       ]
     },
@@ -62,21 +62,21 @@
       "level": "",
       "keywords": [
         "C",
+        "Python",
         "C++",
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "MATLAB"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
+        "gcc",
         "TI LaunchPad"
       ]
     }
@@ -84,38 +84,26 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.59",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa College of Engineering",
+      "position": "Engineering Student Ambassador",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Student Ambassador for the college",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Inspire Hawai'i's youth on the topic of engineering",
+        "Drive, design and build student-community relationships"
       ]
     }
   ],
