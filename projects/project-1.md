@@ -15,27 +15,71 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+For my second project in ICS 212 I was tasked with creating a database system for something like a bank. The system would take a customers information including account number, the customers name and the customers address. Then the system would be able to do a host of other functions with the data it has collected from the user. This includes finding an account with the account number, printing all accounts in the system, deleting an account, and finally there is an option to quit the program. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+These options and the collection of information are all done through a text screen in a command terminal, without the assistance of a GUI or other similar application. For this project, I used entirely C++. I was the only person who worked on this project and it took me approximately 3 days to finish properly.
 
-Here is some code that illustrates how we read values from the line sensors:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+
+Here is some code that illustrates how I got input from the user:
+
+```cpp
+    while (!quit)
+    {
+        cout << "Please choose an option:\n";
+        cout << "add: Add a new record in the database\n";
+        cout << "printall: Print all records in the database\n";
+        cout << "find: Find record(s) with a specified account #\n";
+        cout << "delete: Delete existing record(s) from the database using the account # as a key\n";
+        cout << "quit: Quit the program\n\n";
+        
+        getline(cin, command);
+
+        if (stradd.rfind(command) == 0)
+        {
+            cout << "What is the account number?\n";
+            
+            cin.getline(inp, 10);
+            stringstream number(inp);
+            number >> account;
+            while (account < 0)
+            {
+                cout << "Please enter a positive number\n";
+                cin.getline(inp, 10);
+                stringstream number(inp);
+                number >> account;
+            }
+            
+            cout << "What is the name of the account holder?\n";
+
+            cin.getline(inp, 100);
+            while (strlen(inp) > 25)
+            {
+                cout << "Your input is too long. Please enter 25 characters or less.\n";
+                cin.getline(inp, 100);
+            }
+
+            strcpy(name, inp);
+            
+            cout << "What is the address of the account holder?\n";
+            cout << "Please end the address with a greater than sign(>)\n";
+            
+            cin.getline(inp, 100, '>');
+            cin.getline(trash, 100);
+            while(strlen(inp) > 50)
+            {
+                cout << "Your input is too long, please shorten it to 50 characters or less.\n";
+                cout << "Remember to end your address with a greater than sign(>)\n";
+                cin.getline(inp, 100, '>');
+                cin.getline(trash, 100);
+            }
+
+            cout << "\n";
+            
+            list.addRecord(account, name, inp);
+        }
 ```
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
