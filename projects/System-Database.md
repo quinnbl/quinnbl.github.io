@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/systemdatabase.png
+title: System Database
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2021-04-17
 labels:
   - Robotics
   - Arduino
@@ -81,8 +81,5 @@ Here is some code that illustrates how I got input from the user:
             list.addRecord(account, name, inp);
         }
 ```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
 
 
