@@ -3,14 +3,12 @@ layout: project
 type: project
 image: images/systemdatabase.png
 title: System Database
-permalink: projects/micromouse
+permalink: projects/System-Database
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-17
 labels:
-  - Robotics
-  - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: I developed a database which keeps a record of customers.
 ---
 
 <div class="ui small rounded images">
