@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/.png
+image: images/bin.png
 title: Binary Mirror
 permalink: projects/Binary-Mirror
 # All dates must be YYYY-MM-DD format!
