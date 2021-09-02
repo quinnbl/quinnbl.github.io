@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-#**JavaScript Misconceptions**#
+#**JavaScript Misconceptions**
 
 So far, I am still stuck with my original thoughts on JavaScript; these largely having been formed by online forums, comment threads
 and memes where it has been mentioned. It seems comparable to other scripting or object oriented languages I've used, such as C++ or Python. 
