@@ -20,3 +20,4 @@ However, it is not as terrible as I somewhat expected and with time it seems lik
 # Success Strategies
 
 As far as the WODs go, I think the approach is a good one. I always appreciate a class with more small work to build up to big projects, whether it is a math, engineering or coding class. Again, only time will tell how useful they end up being, but I have high hopes as it seems like a good strategy.
+On my own, I plan to dedicate whatever time I can spare after I do everything necessary to make myself and my dog happy and healthy towards this and my other classes. With this strategy I hope to learn everything I can, in particular about software engineering, so that I can become a successful engineer after graduation.
