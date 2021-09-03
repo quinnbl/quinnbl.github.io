@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/space_invaders_gameplay.png
 title: Space Invaders!
-permalink: projects/Binary-Mirror
+permalink: projects/Space-Invaders
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-12
+date: 2021-09-03
 labels:
   - Python
   - Game
