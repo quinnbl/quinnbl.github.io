@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/systemdatabase.png
+image: images/systemdatabasesquare.png
 title: System Database
 permalink: projects/System-Database
 # All dates must be YYYY-MM-DD format!
