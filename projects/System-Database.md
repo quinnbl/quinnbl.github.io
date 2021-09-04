@@ -11,10 +11,6 @@ labels:
 summary: I developed a database which keeps a record of customers.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/project2.png">
-</div>
-
 For my second project in ICS 212 I was tasked with creating a database system for something like a bank. The system would take a customers information including account number, the customers name and the customers address. Then the system would be able to do a host of other functions with the data it has collected from the user. This includes finding an account with the account number, printing all accounts in the system, deleting an account, and finally there is an option to quit the program. 
 
 These options and the collection of information are all done through a text screen in a command terminal, without the assistance of a GUI or other similar application. For this project, I used entirely C++. I was the only person who worked on this project and it took me approximately 3 days to finish properly.
