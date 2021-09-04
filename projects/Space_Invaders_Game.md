@@ -9,6 +9,7 @@ date: 2021-09-03
 labels:
   - Python
   - Game
+  - Pygame
 summary: A game I wrote to emulate Space Invaders
 ---
 
