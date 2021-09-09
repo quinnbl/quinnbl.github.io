@@ -15,7 +15,7 @@ summary: A database with constructors and destructors for pokemon classes.
 
 Pokemon Database is a database I developed by myself in C++ which uses constructors and destructors for a pokemon class, as well as child classes for specific types of pokemon, to create a database of pokemon on my "team".
 
-The "user interface" is hard coded to interact with the classes set up.
+The "user interface" is hard coded to interact with the classes set up. With this, the imaginary user is able to create pokemon by calling constructors, find a specific pokemon by their name that the player gave to them, and when the program quits it calls the destructor for each one.
 
 ```cpp
 //electrorat, sekiro, hogan
