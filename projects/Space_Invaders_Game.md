@@ -21,6 +21,3 @@ My version has some added elements, such as an enhanced main menu, a credit scre
 
 <img class="ui image" src="{{ site.baseurl }}/images/space_invaders_lost.png">
 
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
