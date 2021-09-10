@@ -20,7 +20,7 @@ The user had a clear and concise question about an open source project he had be
 
 Follow this [link](https://stackoverflow.com/questions/69124205/css-background-shorthand) to see the bad question.
 
-This user simply asked a one sentence question about a topic without any pleasantries and without any apparent attempt to find the answer on his own. The answer was quickly given with a simple link in the comments, evidencing the fact that the user could have simply searched for the documentation himself.
+This user simply asked a one sentence question about a topic without any pleasantries and without any apparent attempt to find the answer on his own. The user asked how to write a certain piece of background info for CSS in shorthand, no explanation as to why he could not get the shorthahdn or any reason why he should be helped. It is show that someone else thought this was a bad question because it was downvoted. The answer was given with a simple link in the comments, evidencing the fact that the user could have simply searched for the documentation himself.
 
 # My Thoughts
 
