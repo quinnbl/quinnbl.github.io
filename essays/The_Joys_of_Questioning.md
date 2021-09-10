@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: The Joys of Questioning
+date: 2021-09-09
+labels:
+  - Software Engineering
+  - Questions
+  - Programming
+  - Learning
+---
+
 # A Good Question
 
 Follow this [link](https://stackoverflow.com/questions/30501327/does-the-g-stringstream-constructor-have-a-critical-section) to see the good question.
