@@ -15,7 +15,7 @@ summary: A program I developed for my own phone which reminds me to look away fr
 
 <img align="right" class="ui image" src="{{ site.baseurl }}/images/reminderApp.jpg">
 
-#Reminder For Good Eye Health
+# Reminder For Good Eye Health
 
 This is an ongoing personal project to both learn about app development and improve upon an issue in my own life. The app I have designed is at this point made only for myself and I have no plans of releasing it.
 
