@@ -18,7 +18,7 @@ summary: A project I am a part of which aims to create a machine learning model 
 
 ## Gameplay
 
-  The game we are working with is called Huligutta, or Goats and Tigers, a game which involves two players playing asymmetrically. That is, they each have different pieces and different goals. One side controls three tigers, whose goal is to eat five goats. The tigers can eat goats by jumping over them, much like in checkers. The other side controls up to 15 goats, who start out off the board. The player takes 15 turns placing the goats, then moves the goats around after all have been placed. The goal for the goats is to block in all the tigers so they have no moves.
+  The game we are working with is called Huligutta, or Goats and Tigers, a game which involves two players playing asymmetrically. That is, they each have different pieces and different goals. One side controls three tigers, whose goal is to eat five goats. The tigers can eat goats by jumping over them, much like in checkers. The other side controls up to 15 goats, who start out off the board. The player takes 15 turns placing the goats, then moves the goats around after all have been placed. The goal for the goats is to block in all the tigers so they have no moves. The layout of the board can be seen below, and the values assigned to each positioned have been labeled.
   
  <img class="ui image" src="{{ site.baseurl }}/images/huliguttaLayout.jpg">
 
