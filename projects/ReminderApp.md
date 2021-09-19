@@ -26,9 +26,5 @@ I have poor eyesight, requiring glasses. The pandemic and it's having forced lea
 My app however, was. To start off, when you open the app, there is only a timer set to 20:00, a start button and a 20 Second button. When you press the start button, the timer counts down from twenty minutes and a stop button will appear. When the timer reaches zero, an alarm goes off and a button which will shut off the alarm appears. The alarm does not turn off until you press this button. Once you've gone through twenty minutes, and turned off the alarm, it will sit at zero until you do one of two things. You can set the 20 second timer to time yourself while you look away, or press start again to restart the timer. After the twenty second timer, the same alarm system will present itself. If you press the 20 second button, a new button that says "Done" will show up. This button signifies that you have looked away for twenty seconds, maybe stretched yourself and rolled your eyes and are ready to get back to work. Once you press it, it will restart your twenty minute timer. However, if you press it before the twenty second timer is even up, a text field with "You're a liar" will show up and you will have to live with it until you reset the app.
 
 
--
--
--
--
--
--
+-----
+-----
