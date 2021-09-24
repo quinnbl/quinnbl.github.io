@@ -28,3 +28,4 @@ Smart questions are important for all engineers, because there is a lot of compl
 
 If we are able to develop a more effective method of asking questions, we will then be able to strengthen this tool that we have and become more effective and experienced engineers ourselves. It is by the mechanism of asking questions that we learn everything there is to know in our world, and peers are one of the most robust and responsive resources for this endeavor.
 
+------
