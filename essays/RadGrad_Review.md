@@ -8,8 +8,6 @@ labels:
   - Coding Standards
 ---
 
-# A Senior Computer Engineering Student's View of RadGrad
-
 RadGrad seems like a pretty cool tool to use, although I think it would have been more useful to me earlier in my college career. I am not sure that using it now has taught me anything, but there are definitely lots of opportunities there that I would not have known about when I was a freshman. By now, my plans for this semester and the next are fairly locked down and then I graduate in the spring, so it is less helpful to know about other opportunities. 
 
 
