@@ -83,3 +83,4 @@ The problem is that we are all staring at our screens sitting in our chairs for 
 * Ability to compare ranks, screen time etc with friends
 * Lots of well organized information together on one homepage, mini schedule, screen timer, water intake, caffeine intake, time exercising etc.
 
+-----
