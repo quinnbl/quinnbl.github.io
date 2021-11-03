@@ -18,35 +18,35 @@ The problem is that it's hard to meet people in an online setting, especially fo
 
 ## Mockup page ideas
 
-Landing
-Sign in
-Sign in help page
-Sign up
-DM's page
-Group interest pages
-User homepage
-Edit homepage/setting
-Discover new events/people
-Schedule events
-Calendar
-Contacts/friends list
+* Landing
+* Sign in
+* Sign in help page
+* Sign up
+* DM's page
+* Group interest pages
+* User homepage
+* Edit homepage/setting
+* Discover new events/people
+* Schedule events
+* Calendar
+* Contacts/friends list
 
 
 ## Use case ideas
 
-New user comes in, signs up and sets up their profile, then discovers some events and logs out
-Returning user comes to landing page, signs in and messages their friend about a new hike they'rd like to do
-Returning user comes to landing page, forgets password, goes to sign in help, gets a reset password email, then checks discover page
+* New user comes in, signs up and sets up their profile, then discovers some events and logs out
+* Returning user comes to landing page, signs in and messages their friend about a new hike they'rd like to do
+* Returning user comes to landing page, forgets password, goes to sign in help, gets a reset password email, then checks discover page
 
 
 ## Beyond the basics
 
-Messaging built in
-Email notifications
-Push notifications
-Hangout room where you can hop in and chat
-Ranking for participating in app and creating events
-Links to social media
+* Messaging built in
+* Email notifications
+* Push notifications
+* Hangout room where you can hop in and chat
+* Ranking for participating in app and creating events
+* Links to social media
 
 
 
@@ -58,28 +58,28 @@ The problem is that we are all staring at our screens sitting in our chairs for 
 
 ## Mockup page ideas
 
-Landing page
-Sign in
-Sign in help
-Sign up
-Settings page
-User home page (bulk of info is here, timer, water drank, time on screen)
-Organization page
-Schedule page (plan day(s) out)
+* Landing page
+* Sign in
+* Sign in help
+* Sign up
+* Settings page
+* User home page (bulk of info is here, timer, water drank, time on screen)
+* Organization page
+* Schedule page (plan day(s) out)
 
 
 ## Use case ideas
 
-New user comes in, signs up, fills out their average screen use time, water drank, activity times
-Returning user signs in, leaves app open so it will send a notification when it's time to look away from the screen/get a glass of water/stretch your legs, close it at the end of day
-Returning user signs in, plans their day so they can be sure to go exercise between classes, leaves app open to get notifications, closes it at the end of day
-Returning user signs in, checks their rank against friends, logs out and goes to the beach
+* New user comes in, signs up, fills out their average screen use time, water drank, activity times
+* Returning user signs in, leaves app open so it will send a notification when it's time to look away from the screen/get a glass of water/stretch your legs, close it at the end of day
+* Returning user signs in, plans their day so they can be sure to go exercise between classes, leaves app open to get notifications, closes it at the end of day
+* Returning user signs in, checks their rank against friends, logs out and goes to the beach
 
 
 ## Beyond the basics
 
-Ranking system
-Ability to connect with friends
-Ability to compare ranks, screen time etc with friends
-Lots of well organized information together on one homepage, mini schedule, screen timer, water intake, caffeine intake, time exercising etc.
+* Ranking system
+* Ability to connect with friends
+* Ability to compare ranks, screen time etc with friends
+* Lots of well organized information together on one homepage, mini schedule, screen timer, water intake, caffeine intake, time exercising etc.
 
