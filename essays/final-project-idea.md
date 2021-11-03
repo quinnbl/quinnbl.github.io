@@ -10,7 +10,7 @@ labels:
 
 This essay was collaboratively written by Quinn Bianchi-Lawson, Tricia Marie Reyes and Raphael Bumanlag.
 
-# First Idea
+# First Idea - UHMeta
 
 ## Overview (including “The problem” and “The solution”)
 
@@ -50,7 +50,7 @@ The problem is that it's hard to meet people in an online setting, especially fo
 
 
 
-# Second Idea
+# Second Idea - WaM (Wellness at Manoa)
 
 ## Overview (including “The problem” and “The solution”)
 
