@@ -10,7 +10,41 @@ labels:
 
 This essay was collaboratively written by Quinn Bianchi-Lawson, Tricia Marie Reyes and Raphael Bumanlag.
 
-# First Idea - UHMeta
+# First Idea - WaM (Wellness at Manoa)
+
+## Overview (including “The problem” and “The solution”)
+
+The problem is that we are all staring at our screens sitting in our chairs for the majority of the day. We can fix this with a wellness app that tracks your screen time, and tells you when to look away, drink water, stretch, go outside etc. It rewards you for less screen time, and helps you plan your day around your screen time and active time.
+
+## Mockup page ideas
+
+* Landing page
+* Sign in
+* Sign in help
+* Sign up
+* Settings page
+* User home page (bulk of info is here, timer, water drank, time on screen)
+* Organization page
+* Schedule page (plan day(s) out)
+
+
+## Use case ideas
+
+* New user comes in, signs up, fills out their average screen use time, water drank, activity times
+* Returning user signs in, leaves app open so it will send a notification when it's time to look away from the screen/get a glass of water/stretch your legs, close it at the end of day
+* Returning user signs in, plans their day so they can be sure to go exercise between classes, leaves app open to get notifications, closes it at the end of day
+* Returning user signs in, checks their rank against friends, logs out and goes to the beach
+
+
+## Beyond the basics
+
+* Ranking system
+* Ability to connect with friends
+* Ability to compare ranks, screen time etc with friends
+* Lots of well organized information together on one homepage, mini schedule, screen timer, water intake, caffeine intake, time exercising etc.
+
+
+# Second Idea - UHMeta
 
 ## Overview (including “The problem” and “The solution”)
 
@@ -48,39 +82,5 @@ The problem is that it's hard to meet people in an online setting, especially fo
 * Ranking for participating in app and creating events
 * Links to social media
 
-
-
-# Second Idea - WaM (Wellness at Manoa)
-
-## Overview (including “The problem” and “The solution”)
-
-The problem is that we are all staring at our screens sitting in our chairs for the majority of the day. We can fix this with a wellness app that tracks your screen time, and tells you when to look away, drink water, stretch, go outside etc. It rewards you for less screen time, and helps you plan your day around your screen time and active time.
-
-## Mockup page ideas
-
-* Landing page
-* Sign in
-* Sign in help
-* Sign up
-* Settings page
-* User home page (bulk of info is here, timer, water drank, time on screen)
-* Organization page
-* Schedule page (plan day(s) out)
-
-
-## Use case ideas
-
-* New user comes in, signs up, fills out their average screen use time, water drank, activity times
-* Returning user signs in, leaves app open so it will send a notification when it's time to look away from the screen/get a glass of water/stretch your legs, close it at the end of day
-* Returning user signs in, plans their day so they can be sure to go exercise between classes, leaves app open to get notifications, closes it at the end of day
-* Returning user signs in, checks their rank against friends, logs out and goes to the beach
-
-
-## Beyond the basics
-
-* Ranking system
-* Ability to connect with friends
-* Ability to compare ranks, screen time etc with friends
-* Lots of well organized information together on one homepage, mini schedule, screen timer, water intake, caffeine intake, time exercising etc.
 
 -----
