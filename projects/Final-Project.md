@@ -20,6 +20,7 @@ I specifically developed the Landing page, as well as the .io homepage for our s
 
 
 Click [here](https://github.com/wavecache) to go to the GitHub Organization home page for our project.
+
 Click [here](https://wavecache.github.io/) to go to the WaveCache home page.
  
  
