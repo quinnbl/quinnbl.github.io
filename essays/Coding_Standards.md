@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: To Standardize or Not To Standardize
 date: 2021-09-09
 labels:
