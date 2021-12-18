@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: imagesWaveCacheLanding.jpg
+image: images/WaveCacheLanding.png
 title: Wave Cache
 permalink: projects/Wave-Cache
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A website developed by myself and a team of classmates to show up to date reviews, information and weather reports for various surf breaks around the island of Oahu.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/WaveCacheLanding.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/WaveCacheLanding.png">
 
 Wave Cache is a site where people can find information on surfing breaks, find friends to surf with and more. We built this using Meteor React with Semantic UI React, JavaScript being the main language. We used Intellij for development and GitHub for version control and merging code.
 
