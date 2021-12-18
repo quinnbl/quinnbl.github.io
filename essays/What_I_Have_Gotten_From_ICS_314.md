@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: What I Have Gotten From ICS 314
-date: 2021-012-17
+date: 2021-12-17
 labels:
   - Software Engineering
   - Coding Standards
